@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "name": "bread",
+      "deleted": false,
+      "id": 1
+    },
+    {
+      "name": "grapes",
+      "deleted": false,
+      "id": 2
+    },
+    {
+      "name": "rice",
+      "deleted": false,
+      "id": 3
+    }
+  ]
+}
